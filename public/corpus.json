@@ -1,0 +1,425 @@
+[
+  {
+    "id": "wittgenstein-tlp-5.6",
+    "quote": "The limits of my language mean the limits of my world.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Tractatus Logico-Philosophicus",
+    "reference": "5.6 (1921)",
+    "branch": "Language",
+    "inquiry_prompt": "Identify one belief you hold strongly today—how much of it survives if you strip away inherited metaphors?"
+  },
+  {
+    "id": "wittgenstein-tlp-7",
+    "quote": "Whereof one cannot speak, thereof one must be silent.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Tractatus Logico-Philosophicus",
+    "reference": "7 (1921)",
+    "branch": "Language",
+    "inquiry_prompt": "What is the last thing you tried to put into words and failed? Was the failure in the words, or a sign that the thing was never a proposition?"
+  },
+  {
+    "id": "wittgenstein-tlp-6.52",
+    "quote": "We feel that even when all possible scientific questions have been answered, the problems of life remain completely untouched.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Tractatus Logico-Philosophicus",
+    "reference": "6.52 (1921)",
+    "branch": "Existentialism",
+    "inquiry_prompt": "Which of your own problems would still be standing after every factual question about them was settled?"
+  },
+  {
+    "id": "wittgenstein-tlp-6.44",
+    "quote": "Not how the world is, is the mystical, but that it is.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Tractatus Logico-Philosophicus",
+    "reference": "6.44 (1921)",
+    "branch": "Consciousness",
+    "inquiry_prompt": "When did you last feel surprise that anything exists at all, rather than surprise at how things happen to be?"
+  },
+  {
+    "id": "wittgenstein-pi-109",
+    "quote": "Philosophy is a battle against the bewitchment of our intelligence by means of language.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Philosophical Investigations",
+    "reference": "§109 (1953)",
+    "branch": "Language",
+    "inquiry_prompt": "Pick a word you use daily without hesitation—'freedom', 'self', 'success'. Where does it stop meaning anything definite when you press on it?"
+  },
+  {
+    "id": "wittgenstein-pi-43",
+    "quote": "The meaning of a word is its use in the language.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Philosophical Investigations",
+    "reference": "§43 (1953)",
+    "branch": "Language",
+    "inquiry_prompt": "Think of a word that means something different in your family than in a dictionary. What is the use that fixes its meaning?"
+  },
+  {
+    "id": "wittgenstein-pi-ii-xi",
+    "quote": "If a lion could talk, we could not understand him.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Philosophical Investigations",
+    "reference": "Part II, xi (1953)",
+    "branch": "Language",
+    "inquiry_prompt": "Who in your life shares your words but not your form of life? What would have to be shared before understanding became possible?"
+  },
+  {
+    "id": "krishnamurti-pathless-land",
+    "quote": "Truth is a pathless land, and you cannot approach it by any path whatsoever, by any religion, by any sect.",
+    "author": "J. Krishnamurti",
+    "work": "Dissolution of the Order of the Star (speech)",
+    "reference": "Ommen, 3 August 1929",
+    "branch": "Eastern Philosophy",
+    "inquiry_prompt": "Which method, teacher or system are you leaning on to spare yourself the work of looking directly?"
+  },
+  {
+    "id": "krishnamurti-observer-observed",
+    "quote": "The observer is the observed.",
+    "author": "J. Krishnamurti",
+    "work": "Recurring teaching (see Freedom from the Known, 1969)",
+    "reference": "attributed; verify against source edition",
+    "branch": "Consciousness",
+    "inquiry_prompt": "Watch an irritation arise today. Is there really a watcher standing apart from it, or is the watching part of the same movement?"
+  },
+  {
+    "id": "osho-inside-realized",
+    "quote": "Truth is not something outside to be discovered, it is something inside to be realized.",
+    "author": "Osho",
+    "work": "Attributed discourse",
+    "reference": "attributed; verify against source edition",
+    "branch": "Eastern Philosophy",
+    "inquiry_prompt": "What have you been searching for in other people's answers that only your own attention could confirm?"
+  },
+  {
+    "id": "osho-courage-unknown",
+    "quote": "Courage is a love affair with the unknown.",
+    "author": "Osho",
+    "work": "Courage: The Joy of Living Dangerously",
+    "reference": "attributed; verify against source edition",
+    "branch": "Existentialism",
+    "inquiry_prompt": "Where are you choosing the familiar discomfort over an unfamiliar possibility, and what exactly are you protecting?"
+  },
+  {
+    "id": "nagarjuna-mmk-24.18",
+    "quote": "Whatever arises dependently, that we call emptiness; it is itself a dependent designation, and it is the middle way.",
+    "author": "Nāgārjuna",
+    "work": "Mūlamadhyamakakārikā",
+    "reference": "24.18 (c. 2nd century CE, paraphrase)",
+    "branch": "Eastern Philosophy",
+    "inquiry_prompt": "Trace one thing you call 'mine' back through its conditions. At what point does the sense of an independent owner dissolve?"
+  },
+  {
+    "id": "nagarjuna-mmk-13.8",
+    "quote": "The victorious ones taught emptiness as the letting go of all views; those who make emptiness itself a view are beyond cure.",
+    "author": "Nāgārjuna",
+    "work": "Mūlamadhyamakakārikā",
+    "reference": "13.8 (c. 2nd century CE, paraphrase)",
+    "branch": "Epistemology",
+    "inquiry_prompt": "Which of your 'non-attachments' have quietly become a position you defend?"
+  },
+  {
+    "id": "spinoza-ethics-5p42",
+    "quote": "Blessedness is not the reward of virtue, but virtue itself.",
+    "author": "Baruch Spinoza",
+    "work": "Ethics (trans. Elwes)",
+    "reference": "Part V, Prop. 42 (1677)",
+    "branch": "Ethics",
+    "inquiry_prompt": "If no one ever rewarded or noticed your best conduct, would it still feel like its own satisfaction?"
+  },
+  {
+    "id": "spinoza-ethics-5p42s",
+    "quote": "All things excellent are as difficult as they are rare.",
+    "author": "Baruch Spinoza",
+    "work": "Ethics (trans. Elwes)",
+    "reference": "Part V, Prop. 42, Scholium (1677)",
+    "branch": "Ethics",
+    "inquiry_prompt": "What excellent thing are you avoiding because it is hard, as though difficulty were evidence against it?"
+  },
+  {
+    "id": "spinoza-ethics-4p67",
+    "quote": "A free man thinks of death least of all things; and his wisdom is a meditation not of death but of life.",
+    "author": "Baruch Spinoza",
+    "work": "Ethics (trans. Elwes)",
+    "reference": "Part IV, Prop. 67 (1677)",
+    "branch": "Existentialism",
+    "inquiry_prompt": "How much of your planning is really fear of an ending, and how much is attention to what you are living now?"
+  },
+  {
+    "id": "spinoza-ethics-3p6",
+    "quote": "Everything, in so far as it is in itself, endeavours to persist in its own being.",
+    "author": "Baruch Spinoza",
+    "work": "Ethics (trans. Elwes)",
+    "reference": "Part III, Prop. 6 (1677)",
+    "branch": "Consciousness",
+    "inquiry_prompt": "Which of your habits is simply this striving to persist, and which would you choose if you were choosing freely?"
+  },
+  {
+    "id": "camus-sisyphus-happy",
+    "quote": "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+    "author": "Albert Camus",
+    "work": "The Myth of Sisyphus (trans. O'Brien)",
+    "reference": "Final paragraph (1942)",
+    "branch": "Existentialism",
+    "inquiry_prompt": "Which repetitive task in your week could be re-read as the struggle itself being enough?"
+  },
+  {
+    "id": "camus-tipasa-summer",
+    "quote": "In the midst of winter, I found there was, within me, an invincible summer.",
+    "author": "Albert Camus",
+    "work": "Return to Tipasa (trans. O'Brien)",
+    "reference": "Essay (1952)",
+    "branch": "Existentialism",
+    "inquiry_prompt": "Name a hard season you went through. What in you refused to be extinguished, and where did it come from?"
+  },
+  {
+    "id": "camus-rebel",
+    "quote": "I rebel—therefore we exist.",
+    "author": "Albert Camus",
+    "work": "The Rebel (trans. Bower)",
+    "reference": "Part I (1951)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Think of the last time you said 'no'. Whose dignity were you defending besides your own?"
+  },
+  {
+    "id": "camus-plague-decency",
+    "quote": "The only means of fighting a plague is common decency.",
+    "author": "Albert Camus",
+    "work": "The Plague (trans. Gilbert)",
+    "reference": "Part II (1947)",
+    "branch": "Ethics",
+    "inquiry_prompt": "What small, unglamorous duty is yours today that no grand theory could replace?"
+  },
+  {
+    "id": "weil-attention-generosity",
+    "quote": "Attention is the rarest and purest form of generosity.",
+    "author": "Simone Weil",
+    "work": "Letter to Joë Bousquet",
+    "reference": "13 April 1942",
+    "branch": "Ethics",
+    "inquiry_prompt": "Who needed your undivided attention this week and received only a fraction of it?"
+  },
+  {
+    "id": "weil-attention-prayer",
+    "quote": "Absolutely unmixed attention is prayer.",
+    "author": "Simone Weil",
+    "work": "Gravity and Grace (trans. Crawford)",
+    "reference": "'Attention and Will' (1947)",
+    "branch": "Consciousness",
+    "inquiry_prompt": "For two minutes, attend to one thing with nothing mixed in. What was the first thing that tried to mix in?"
+  },
+  {
+    "id": "weil-neighbor-suffering",
+    "quote": "The love of our neighbor in all its fullness simply means being able to say to him: 'What are you going through?'",
+    "author": "Simone Weil",
+    "work": "Waiting for God (trans. Craufurd)",
+    "reference": "'Forms of the Implicit Love of God' (1950)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Whom could you ask that question this week, and then stay quiet long enough to hear the answer?"
+  },
+  {
+    "id": "weil-waiting-gifts",
+    "quote": "We do not obtain the most precious gifts by going in search of them but by waiting for them.",
+    "author": "Simone Weil",
+    "work": "Waiting for God (trans. Craufurd)",
+    "reference": "'Reflections on the Right Use of School Studies' (1950)",
+    "branch": "Epistemology",
+    "inquiry_prompt": "What insight have you been trying to force that might only arrive if you stopped grasping at it?"
+  },
+  {
+    "id": "marcus-meditations-4.3",
+    "quote": "It is in thy power whenever thou shalt choose to retire into thyself.",
+    "author": "Marcus Aurelius",
+    "work": "Meditations (trans. Long)",
+    "reference": "Book 4.3 (c. 170–180 CE)",
+    "branch": "Ethics",
+    "inquiry_prompt": "What is the nearest retreat that requires no travel, and what stops you from entering it today?"
+  },
+  {
+    "id": "marcus-meditations-4.7",
+    "quote": "Take away thy opinion, and then there is taken away the complaint, 'I have been harmed.' Take away the complaint, 'I have been harmed,' and the harm is taken away.",
+    "author": "Marcus Aurelius",
+    "work": "Meditations (trans. Long)",
+    "reference": "Book 4.7 (c. 170–180 CE)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Recall a recent injury. Which part was the event, and which part was your account of the event?"
+  },
+  {
+    "id": "marcus-meditations-10.16",
+    "quote": "No longer talk at all about the kind of man that a good man ought to be, but be such.",
+    "author": "Marcus Aurelius",
+    "work": "Meditations (trans. Long)",
+    "reference": "Book 10.16 (c. 170–180 CE)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Where are you still discussing a virtue instead of practicing it in the next hour?"
+  },
+  {
+    "id": "epictetus-enchiridion-1",
+    "quote": "Of things some are in our power, and others are not.",
+    "author": "Epictetus",
+    "work": "Enchiridion (trans. Long)",
+    "reference": "§1 (c. 125 CE)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Sort what is worrying you into two lists. How much energy is currently spent on the list you cannot change?"
+  },
+  {
+    "id": "epictetus-enchiridion-5",
+    "quote": "Men are disturbed, not by the things which happen, but by the opinions about the things.",
+    "author": "Epictetus",
+    "work": "Enchiridion (trans. Long)",
+    "reference": "§5 (c. 125 CE)",
+    "branch": "Epistemology",
+    "inquiry_prompt": "What exact opinion sits underneath the last strong emotion you felt, and is it actually true?"
+  },
+  {
+    "id": "plato-apology-38a",
+    "quote": "The unexamined life is not worth living.",
+    "author": "Plato",
+    "work": "Apology (trans. Jowett)",
+    "reference": "38a (c. 399 BCE)",
+    "branch": "Existentialism",
+    "inquiry_prompt": "Which part of your life have you never examined, only inherited?"
+  },
+  {
+    "id": "plato-apology-21d",
+    "quote": "What I do not know I do not think I know either.",
+    "author": "Socrates, in Plato",
+    "work": "Apology (trans. Fowler)",
+    "reference": "21d (c. 399 BCE)",
+    "branch": "Epistemology",
+    "inquiry_prompt": "State something you are certain of. Now list what you would have to know in order to be entitled to that certainty."
+  },
+  {
+    "id": "aristotle-metaphysics-982b",
+    "quote": "It is owing to their wonder that men both now begin and at first began to philosophize.",
+    "author": "Aristotle",
+    "work": "Metaphysics (trans. Ross)",
+    "reference": "Book I, 982b (c. 350 BCE)",
+    "branch": "Epistemology",
+    "inquiry_prompt": "What is the last thing that genuinely puzzled you, before you reached for a quick answer?"
+  },
+  {
+    "id": "descartes-meditations-ii",
+    "quote": "This proposition, I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind.",
+    "author": "René Descartes",
+    "work": "Meditations on First Philosophy (trans. Veitch)",
+    "reference": "Meditation II (1641)",
+    "branch": "Consciousness",
+    "inquiry_prompt": "Strip away every belief you could doubt. What, if anything, is left that you cannot doubt, and is it as much as Descartes claims?"
+  },
+  {
+    "id": "kant-cpr-b75",
+    "quote": "Thoughts without content are void; intuitions without conceptions, blind.",
+    "author": "Immanuel Kant",
+    "work": "Critique of Pure Reason (trans. Meiklejohn)",
+    "reference": "A51/B75 (1781)",
+    "branch": "Epistemology",
+    "inquiry_prompt": "Are you currently in possession of a theory with no experience behind it, or an experience with no concept to make sense of it?"
+  },
+  {
+    "id": "kant-groundwork-universal-law",
+    "quote": "Act only on that maxim whereby thou canst at the same time will that it should become a universal law.",
+    "author": "Immanuel Kant",
+    "work": "Groundwork of the Metaphysic of Morals (trans. Abbott)",
+    "reference": "Section II (1785)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Take the rule behind your last small shortcut. Could you will everyone to follow it?"
+  },
+  {
+    "id": "hume-treatise-1.4.6",
+    "quote": "I never can catch myself at any time without a perception, and never can observe any thing but the perception.",
+    "author": "David Hume",
+    "work": "A Treatise of Human Nature",
+    "reference": "Book I, Part IV, §6 (1739)",
+    "branch": "Consciousness",
+    "inquiry_prompt": "Look for the 'you' that has your experiences. Do you find anything other than the experiences themselves?"
+  },
+  {
+    "id": "hume-treatise-2.3.3",
+    "quote": "Reason is, and ought only to be the slave of the passions.",
+    "author": "David Hume",
+    "work": "A Treatise of Human Nature",
+    "reference": "Book II, Part III, §3 (1739)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Recall a decision you called rational. What desire was it quietly serving?"
+  },
+  {
+    "id": "nietzsche-bge-146",
+    "quote": "He who fights with monsters should be careful lest he thereby become a monster. And if thou gaze long into an abyss, the abyss will also gaze into thee.",
+    "author": "Friedrich Nietzsche",
+    "work": "Beyond Good and Evil (trans. Zimmern)",
+    "reference": "§146 (1886)",
+    "branch": "Existentialism",
+    "inquiry_prompt": "What are you fighting at the moment, and what trait of it have you started to adopt?"
+  },
+  {
+    "id": "kierkegaard-journals-1843",
+    "quote": "Life can only be understood backwards; but it must be lived forwards.",
+    "author": "Søren Kierkegaard",
+    "work": "Journals (trans. Dru)",
+    "reference": "1843 entry",
+    "branch": "Existentialism",
+    "inquiry_prompt": "What decision awaits you that no amount of retrospective clarity could make for you in advance?"
+  },
+  {
+    "id": "pascal-pensees-139",
+    "quote": "All the unhappiness of men arises from one single fact, that they cannot stay quietly in their own chamber.",
+    "author": "Blaise Pascal",
+    "work": "Pensées (trans. Trotter)",
+    "reference": "No. 139 (1670)",
+    "branch": "Existentialism",
+    "inquiry_prompt": "Sit alone, phone out of reach, for ten minutes. What did you reach for first, and what was it protecting you from?"
+  },
+  {
+    "id": "seneca-letters-13",
+    "quote": "We suffer more often in imagination than in reality.",
+    "author": "Seneca",
+    "work": "Letters to Lucilius (trans. Gummere)",
+    "reference": "Letter 13 (c. 65 CE)",
+    "branch": "Ethics",
+    "inquiry_prompt": "Which of today's dreads exists only in your forecast, and what is the actual, present evidence for it?"
+  },
+  {
+    "id": "laozi-tte-1",
+    "quote": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "author": "Laozi",
+    "work": "Tao Te Ching (trans. Legge)",
+    "reference": "Chapter 1 (c. 4th century BCE)",
+    "branch": "Eastern Philosophy",
+    "inquiry_prompt": "What have you named so firmly that you stopped seeing it?"
+  },
+  {
+    "id": "laozi-tte-33",
+    "quote": "He who knows other men is discerning; he who knows himself is intelligent.",
+    "author": "Laozi",
+    "work": "Tao Te Ching (trans. Legge)",
+    "reference": "Chapter 33 (c. 4th century BCE)",
+    "branch": "Eastern Philosophy",
+    "inquiry_prompt": "You can probably predict a friend's reaction easily. Can you predict your own next defensive move?"
+  },
+  {
+    "id": "zhuangzi-butterfly",
+    "quote": "I do not know whether it was then Chuang Tzu dreaming he was a butterfly, or whether I am now a butterfly dreaming I am Chuang Tzu.",
+    "author": "Zhuangzi",
+    "work": "Zhuangzi, Ch. 2 (after Giles)",
+    "reference": "'Discussion on Making All Things Equal' (c. 3rd century BCE, paraphrase)",
+    "branch": "Eastern Philosophy",
+    "inquiry_prompt": "What test could distinguish your waking life from a vivid dream, and is the test itself part of the dream?"
+  },
+  {
+    "id": "dhammapada-1",
+    "quote": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.",
+    "author": "The Buddha (attributed)",
+    "work": "Dhammapada (trans. Müller)",
+    "reference": "Verse 1 (c. 3rd century BCE)",
+    "branch": "Consciousness",
+    "inquiry_prompt": "Which recurring thought has been quietly building the person you are today?"
+  },
+  {
+    "id": "dhammapada-103",
+    "quote": "If one man conquer in battle a thousand times a thousand men, and if another conquer himself, he is the greatest of conquerors.",
+    "author": "The Buddha (attributed)",
+    "work": "Dhammapada (trans. Müller)",
+    "reference": "Verse 103 (c. 3rd century BCE)",
+    "branch": "Ethics",
+    "inquiry_prompt": "What contest are you trying to win outwardly that is really a contest with yourself?"
+  }
+]

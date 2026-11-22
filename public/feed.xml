@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://github.com/w1tneess/aporia/</id>
+  <title>Aporia</title>
+  <subtitle>A self-updating philosophical dispatch.</subtitle>
+  <link rel="alternate" href="https://github.com/w1tneess/aporia/"/>
+  <link rel="self" href="https://github.com/w1tneess/aporia/feed.xml"/>
+  <updated>2026-11-22T19:10:33Z</updated>
+  <author><name>Aporia</name></author>
+  <entry>
+    <id>urn:aporia:edition:1</id>
+    <title>Edition 1: Ludwig Wittgenstein</title>
+    <link href="https://github.com/w1tneess/aporia/"/>
+    <updated>2026-11-22T19:10:33Z</updated>
+    <summary type="text">“The limits of my language mean the limits of my world.” — Ludwig Wittgenstein, Tractatus Logico-Philosophicus (5.6 (1921)). Question: Identify one belief you hold strongly today—how much of it survives if you strip away inherited metaphors?</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:339c7b8685f9</id>
+    <title>Embodied Cognition</title>
+    <link href="https://plato.stanford.edu/entries/embodied-cognition/"/>
+    <updated>2026-11-22T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Embodied Cognition is a wide-ranging research program drawing from and inspiring work in psychology, neuroscience, ethology, philosophy, linguistics, robotics, and artificial intelligence.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:76d50538f651</id>
+    <title>Delusion</title>
+    <link href="https://plato.stanford.edu/entries/delusion/"/>
+    <updated>2026-11-21T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">The nature of delusions is a matter of controversy, but in most definitions delusions are often characterised as unusual beliefs that appear in the context of mental distress. Indeed, clinical delusions are considered a symptom of psychiatric disorders such as dementia, schizophrenia, and delusional disorders. They can be associated with depression and obsessive-compulsive disorder as well.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:f74df5f133a7</id>
+    <title>Culture and Cognitive Science</title>
+    <link href="https://plato.stanford.edu/entries/culture-cogsci/"/>
+    <updated>2026-11-21T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Human behavior and thought often exhibit a familiar pattern of within group similarity and between group difference.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:d71941c4b709</id>
+    <title>Varieties of Modality</title>
+    <link href="https://plato.stanford.edu/entries/modality-varieties/"/>
+    <updated>2026-11-21T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">Modal statements tell us something about what could be or must be the case.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:c19563d67ccc</id>
+    <title>Type Theory</title>
+    <link href="https://plato.stanford.edu/entries/type-theory/"/>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">The topic of type theory is fundamental both in logic and computer science. We limit ourselves here to sketch some aspects that are important in logic.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:1c8c109fc94e</id>
+    <title>My grandmother was a seal</title>
+    <link href="https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"/>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <category term="Existentialism"/>
+    <summary type="text">Their stories reveal the violence and grief in our kinship with nature</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:133e3a13b652</id>
+    <title>The end of Xanadu</title>
+    <link href="https://psyche.co/turning-points/the-house-my-father-built-was-resilient-and-rickety-like-him"/>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">The house my father built taught me to expect disaster.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:7333442e1421</id>
+    <title>Philosophy of History and Historiography</title>
+    <link href="https://plato.stanford.edu/entries/history/"/>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:fa800a72d795</id>
+    <title>Wunderkammer</title>
+    <link href="https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums"/>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <category term="Existentialism"/>
+    <summary type="text">Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:9188d8aabf0b</id>
+    <title>At least it remembers</title>
+    <link href="https://aeon.co/essays/what-would-parenting-by-ai-look-like"/>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <category term="Existentialism"/>
+    <summary type="text">But for some, it’s the only steady presence they have – and that’s the real worry</summary>
+  </entry>
+</feed>

@@ -1,0 +1,66 @@
+{
+  "sources": [
+    {
+      "slug": "sep",
+      "name": "Stanford Encyclopedia of Philosophy",
+      "feed": "https://plato.stanford.edu/rss/sep.xml",
+      "kind": "encyclopedia",
+      "default_branch": "Epistemology"
+    },
+    {
+      "slug": "iep",
+      "name": "Internet Encyclopedia of Philosophy",
+      "feed": "https://iep.utm.edu/feed/",
+      "kind": "encyclopedia",
+      "default_branch": "Epistemology"
+    },
+    {
+      "slug": "aeon",
+      "name": "Aeon",
+      "feed": "https://aeon.co/feed.rss",
+      "kind": "essay",
+      "default_branch": "Existentialism"
+    },
+    {
+      "slug": "psyche",
+      "name": "Psyche",
+      "feed": "https://psyche.co/feed",
+      "kind": "essay",
+      "default_branch": "Consciousness"
+    },
+    {
+      "slug": "dailynous",
+      "name": "Daily Nous",
+      "feed": "https://dailynous.com/feed/",
+      "kind": "essay",
+      "default_branch": "Ethics",
+      "skip_title": "^(mini-)?heap|weekly update|open thread|^new:|^job"
+    }
+  ],
+  "branches": {
+    "Epistemology": {
+      "knowledge": 3, "epistemic": 4, "epistemology": 5, "belief": 2, "justification": 3, "evidence": 2,
+      "skepticism": 3, "truth": 2, "testimony": 3, "reason": 1, "rationality": 2, "certainty": 2, "perception": 1
+    },
+    "Language": {
+      "language": 3, "meaning": 2, "semantics": 4, "linguistic": 3, "reference": 2, "metaphor": 3,
+      "wittgenstein": 4, "word": 1, "speech": 2, "proposition": 3, "concept": 1, "naming": 2
+    },
+    "Consciousness": {
+      "consciousness": 5, "mind": 2, "qualia": 4, "experience": 1, "self": 1, "phenomenal": 4,
+      "attention": 2, "perception": 1, "mental": 2, "dreaming": 2, "cognition": 2, "awareness": 3, "psychology": 1
+    },
+    "Ethics": {
+      "ethics": 4, "moral": 3, "morality": 3, "virtue": 3, "duty": 2, "justice": 2, "obligation": 2,
+      "wrong": 1, "good": 1, "right": 1, "utilitarian": 3, "kantian": 3, "welfare": 1, "responsibility": 2
+    },
+    "Existentialism": {
+      "existential": 5, "existentialism": 5, "meaning of life": 4, "absurd": 4, "freedom": 2, "authenticity": 4,
+      "death": 2, "anxiety": 2, "kierkegaard": 3, "nietzsche": 3, "sartre": 4, "camus": 4, "mortality": 3, "despair": 2
+    },
+    "Eastern Philosophy": {
+      "buddhism": 4, "buddhist": 4, "daoism": 4, "taoism": 4, "confucian": 4, "confucius": 4, "vedanta": 4,
+      "hindu": 3, "zen": 3, "nagarjuna": 4, "indian": 1, "chinese": 1, "japanese": 1, "karma": 2, "nirvana": 3
+    }
+  }
+}

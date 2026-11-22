@@ -1,0 +1,15 @@
+{
+  "https://plato.stanford.edu/rss/sep.xml": {
+    "etag": "\"6b01d0c4-3ac6\"",
+    "last_modified": "Sat, 21 Nov 2026 17:11:32 GMT"
+  },
+  "https://iep.utm.edu/feed/": {
+    "etag": "\"3974bc90d27581c732527b1e7437cd67-gzip\"",
+    "last_modified": "Sat, 07 Nov 2026 02:20:45 GMT"
+  },
+  "https://aeon.co/feed.rss": {},
+  "https://psyche.co/feed": {},
+  "https://dailynous.com/feed/": {
+    "etag": "\"cf9b0daa906094906451660ecbe30330-gzip\""
+  }
+}

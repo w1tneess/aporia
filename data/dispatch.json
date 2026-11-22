@@ -1,0 +1,192 @@
+{
+  "edition": 1,
+  "updated_at_utc": "2026-11-22T19:10:33Z",
+  "next_update_utc": "2026-11-23T00:00:00Z",
+  "pipeline_stats": {
+    "sources_checked": 5,
+    "fetch_duration_ms": 1567,
+    "total_archived": 52,
+    "corpus_count": 47,
+    "new_entries": 0,
+    "sources_failed": 0
+  },
+  "primary_passage": {
+    "id": "wittgenstein-tlp-5.6",
+    "quote": "The limits of my language mean the limits of my world.",
+    "author": "Ludwig Wittgenstein",
+    "work": "Tractatus Logico-Philosophicus",
+    "reference": "5.6 (1921)",
+    "branch": "Language",
+    "inquiry_prompt": "Identify one belief you hold strongly today—how much of it survives if you strip away inherited metaphors?"
+  },
+  "entries": [
+    {
+      "id": "339c7b8685f9",
+      "title": "Embodied Cognition",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/embodied-cognition/",
+      "published_at": "2026-11-22",
+      "read_time_min": 6,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Cognition",
+        "Linguistic"
+      ],
+      "takeaways": [
+        "Embodied Cognition is a wide-ranging research program drawing from and inspiring work in psychology, neuroscience, ethology, philosophy, linguistics, robotics, and artificial intelligence."
+      ]
+    },
+    {
+      "id": "76d50538f651",
+      "title": "Delusion",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/delusion/",
+      "published_at": "2026-11-21",
+      "read_time_min": 6,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology",
+        "Mental",
+        "Belief"
+      ],
+      "takeaways": [
+        "The nature of delusions is a matter of controversy, but in most definitions delusions are often characterised as unusual beliefs that appear in the context of mental distress.",
+        "Indeed, clinical delusions are considered a symptom of psychiatric disorders such as dementia, schizophrenia, and delusional disorders.",
+        "They can be associated with depression and obsessive-compulsive disorder as well."
+      ]
+    },
+    {
+      "id": "f74df5f133a7",
+      "title": "Culture and Cognitive Science",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/culture-cogsci/",
+      "published_at": "2026-11-21",
+      "read_time_min": 6,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Mind"
+      ],
+      "takeaways": [
+        "Human behavior and thought often exhibit a familiar pattern of within group similarity and between group difference."
+      ]
+    },
+    {
+      "id": "d71941c4b709",
+      "title": "Varieties of Modality",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/modality-varieties/",
+      "published_at": "2026-11-21",
+      "read_time_min": 6,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology"
+      ],
+      "takeaways": [
+        "Modal statements tell us something about what could be or must be the case."
+      ]
+    },
+    {
+      "id": "c19563d67ccc",
+      "title": "Type Theory",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/type-theory/",
+      "published_at": "2026-11-20",
+      "read_time_min": 6,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology"
+      ],
+      "takeaways": [
+        "The topic of type theory is fundamental both in logic and computer science.",
+        "We limit ourselves here to sketch some aspects that are important in logic."
+      ]
+    },
+    {
+      "id": "1c8c109fc94e",
+      "title": "My grandmother was a seal",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+      "published_at": "2026-11-20",
+      "read_time_min": 2,
+      "branch": "Existentialism",
+      "tags": [
+        "Existentialism"
+      ],
+      "takeaways": [
+        "Their stories reveal the violence and grief in our kinship with nature"
+      ]
+    },
+    {
+      "id": "133e3a13b652",
+      "title": "The end of Xanadu",
+      "source": "Psyche",
+      "source_slug": "psyche",
+      "url": "https://psyche.co/turning-points/the-house-my-father-built-was-resilient-and-rickety-like-him",
+      "published_at": "2026-11-20",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness"
+      ],
+      "takeaways": [
+        "The house my father built taught me to expect disaster."
+      ]
+    },
+    {
+      "id": "7333442e1421",
+      "title": "Philosophy of History and Historiography",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/history/",
+      "published_at": "2026-11-19",
+      "read_time_min": 6,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology"
+      ],
+      "takeaways": [
+        "New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology."
+      ]
+    },
+    {
+      "id": "fa800a72d795",
+      "title": "Wunderkammer",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
+      "published_at": "2026-11-19",
+      "read_time_min": 2,
+      "branch": "Existentialism",
+      "tags": [
+        "Existentialism"
+      ],
+      "takeaways": [
+        "Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world"
+      ]
+    },
+    {
+      "id": "9188d8aabf0b",
+      "title": "At least it remembers",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+      "published_at": "2026-11-19",
+      "read_time_min": 2,
+      "branch": "Existentialism",
+      "tags": [
+        "Existentialism"
+      ],
+      "takeaways": [
+        "But for some, it’s the only steady presence they have – and that’s the real worry"
+      ]
+    }
+  ]
+}
