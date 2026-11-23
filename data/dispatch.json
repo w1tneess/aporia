@@ -1,25 +1,62 @@
 {
-  "edition": 1,
-  "updated_at_utc": "2026-11-22T19:10:33Z",
-  "next_update_utc": "2026-11-23T00:00:00Z",
+  "edition": 2,
+  "updated_at_utc": "2026-11-23T04:53:57Z",
+  "next_update_utc": "2026-11-24T00:00:00Z",
   "pipeline_stats": {
     "sources_checked": 5,
-    "fetch_duration_ms": 1567,
-    "total_archived": 52,
+    "fetch_duration_ms": 503,
+    "total_archived": 54,
     "corpus_count": 47,
-    "new_entries": 0,
+    "new_entries": 2,
     "sources_failed": 0
   },
   "primary_passage": {
-    "id": "wittgenstein-tlp-5.6",
-    "quote": "The limits of my language mean the limits of my world.",
+    "id": "wittgenstein-tlp-7",
+    "quote": "Whereof one cannot speak, thereof one must be silent.",
     "author": "Ludwig Wittgenstein",
     "work": "Tractatus Logico-Philosophicus",
-    "reference": "5.6 (1921)",
+    "reference": "7 (1921)",
     "branch": "Language",
-    "inquiry_prompt": "Identify one belief you hold strongly today—how much of it survives if you strip away inherited metaphors?"
+    "inquiry_prompt": "What is the last thing you tried to put into words and failed? Was the failure in the words, or a sign that the thing was never a proposition?"
   },
   "entries": [
+    {
+      "id": "90cb0a0cd2ec",
+      "title": "Hume’s Moral Philosophy",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/hume-moral/",
+      "published_at": "2026-11-23",
+      "read_time_min": 6,
+      "branch": "Ethics",
+      "tags": [
+        "Ethics",
+        "Moral",
+        "Reason"
+      ],
+      "takeaways": [
+        "Hume's position in ethics, which is based on his empiricist theory of the mind, is best known for four theses: (1) Reason alone cannot be a motive to the will, but rather is the \"slave of the passions\" (see…",
+        "(3) Moral distinctions are derived from the moral…"
+      ]
+    },
+    {
+      "id": "88ce6fc805ec",
+      "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/plato-sophstate/",
+      "published_at": "2026-11-23",
+      "read_time_min": 6,
+      "branch": "Existentialism",
+      "tags": [
+        "Existentialism",
+        "Death"
+      ],
+      "takeaways": [
+        "The Sophist and Statesman are late Platonic dialogues, whose relative dates are established by their stylistic similarity to the Laws, a work that was apparently still \"on the wax\" at the time of Plato's death (Diogenes Laertius 3.37).",
+        "These dialogues are important in exhibiting Plato's views on method and metaphysics after he criticized his own most famous contribution to the history of philosophy, the theory of separate, immaterial forms in the Parmenides."
+      ]
+    },
     {
       "id": "339c7b8685f9",
       "title": "Embodied Cognition",
@@ -154,38 +191,6 @@
       ],
       "takeaways": [
         "New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology."
-      ]
-    },
-    {
-      "id": "fa800a72d795",
-      "title": "Wunderkammer",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
-      "published_at": "2026-11-19",
-      "read_time_min": 2,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism"
-      ],
-      "takeaways": [
-        "Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world"
-      ]
-    },
-    {
-      "id": "9188d8aabf0b",
-      "title": "At least it remembers",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
-      "published_at": "2026-11-19",
-      "read_time_min": 2,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism"
-      ],
-      "takeaways": [
-        "But for some, it’s the only steady presence they have – and that’s the real worry"
       ]
     }
   ]

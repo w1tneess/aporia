@@ -5,14 +5,30 @@
   <subtitle>A self-updating philosophical dispatch.</subtitle>
   <link rel="alternate" href="https://github.com/w1tneess/aporia/"/>
   <link rel="self" href="https://github.com/w1tneess/aporia/feed.xml"/>
-  <updated>2026-11-22T19:10:33Z</updated>
+  <updated>2026-11-23T04:53:57Z</updated>
   <author><name>Aporia</name></author>
   <entry>
-    <id>urn:aporia:edition:1</id>
-    <title>Edition 1: Ludwig Wittgenstein</title>
+    <id>urn:aporia:edition:2</id>
+    <title>Edition 2: Ludwig Wittgenstein</title>
     <link href="https://github.com/w1tneess/aporia/"/>
-    <updated>2026-11-22T19:10:33Z</updated>
-    <summary type="text">“The limits of my language mean the limits of my world.” — Ludwig Wittgenstein, Tractatus Logico-Philosophicus (5.6 (1921)). Question: Identify one belief you hold strongly today—how much of it survives if you strip away inherited metaphors?</summary>
+    <updated>2026-11-23T04:53:57Z</updated>
+    <summary type="text">“Whereof one cannot speak, thereof one must be silent.” — Ludwig Wittgenstein, Tractatus Logico-Philosophicus (7 (1921)). Question: What is the last thing you tried to put into words and failed? Was the failure in the words, or a sign that the thing was never a proposition?</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:90cb0a0cd2ec</id>
+    <title>Hume’s Moral Philosophy</title>
+    <link href="https://plato.stanford.edu/entries/hume-moral/"/>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <category term="Ethics"/>
+    <summary type="text">Hume's position in ethics, which is based on his empiricist theory of the mind, is best known for four theses: (1) Reason alone cannot be a motive to the will, but rather is the &quot;slave of the passions&quot; (see… (3) Moral distinctions are derived from the moral…</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:88ce6fc805ec</id>
+    <title>Method and Metaphysics in Plato’s Sophist and Statesman</title>
+    <link href="https://plato.stanford.edu/entries/plato-sophstate/"/>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <category term="Existentialism"/>
+    <summary type="text">The Sophist and Statesman are late Platonic dialogues, whose relative dates are established by their stylistic similarity to the Laws, a work that was apparently still &quot;on the wax&quot; at the time of Plato's death (Diogenes Laertius 3.37). These dialogues are important in exhibiting Plato's views on method and metaphysics after he criticized his own most famous contribution to the history of philosophy, the theory of separate, immaterial forms in the Parmenides.</summary>
   </entry>
   <entry>
     <id>urn:aporia:entry:339c7b8685f9</id>
@@ -77,21 +93,5 @@
     <updated>2026-11-19T00:00:00Z</updated>
     <category term="Epistemology"/>
     <summary type="text">New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:fa800a72d795</id>
-    <title>Wunderkammer</title>
-    <link href="https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums"/>
-    <updated>2026-11-19T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:9188d8aabf0b</id>
-    <title>At least it remembers</title>
-    <link href="https://aeon.co/essays/what-would-parenting-by-ai-look-like"/>
-    <updated>2026-11-19T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">But for some, it’s the only steady presence they have – and that’s the real worry</summary>
   </entry>
 </feed>
