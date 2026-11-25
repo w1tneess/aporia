@@ -1,25 +1,119 @@
 {
-  "edition": 3,
-  "updated_at_utc": "2026-11-24T07:42:46Z",
-  "next_update_utc": "2026-11-25T00:00:00Z",
+  "edition": 4,
+  "updated_at_utc": "2026-11-25T06:13:12Z",
+  "next_update_utc": "2026-11-26T00:00:00Z",
   "pipeline_stats": {
     "sources_checked": 5,
-    "fetch_duration_ms": 482,
-    "total_archived": 62,
+    "fetch_duration_ms": 502,
+    "total_archived": 67,
     "corpus_count": 47,
-    "new_entries": 8,
+    "new_entries": 5,
     "sources_failed": 0
   },
   "primary_passage": {
-    "id": "wittgenstein-tlp-6.52",
-    "quote": "We feel that even when all possible scientific questions have been answered, the problems of life remain completely untouched.",
+    "id": "wittgenstein-tlp-6.44",
+    "quote": "Not how the world is, is the mystical, but that it is.",
     "author": "Ludwig Wittgenstein",
     "work": "Tractatus Logico-Philosophicus",
-    "reference": "6.52 (1921)",
-    "branch": "Existentialism",
-    "inquiry_prompt": "Which of your own problems would still be standing after every factual question about them was settled?"
+    "reference": "6.44 (1921)",
+    "branch": "Consciousness",
+    "inquiry_prompt": "When did you last feel surprise that anything exists at all, rather than surprise at how things happen to be?"
   },
   "entries": [
+    {
+      "id": "6b24809546fc",
+      "title": "Retributive Justice",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/justice-retributive/",
+      "published_at": "2026-11-25",
+      "read_time_min": 6,
+      "branch": "Ethics",
+      "tags": [
+        "Ethics",
+        "Justice",
+        "Moral"
+      ],
+      "takeaways": [
+        "Retributive justice is best understood as the form of justice committed to the following three principles: that those who culpably commit certain kinds of wrongful acts, paradigmatically serious crimes,…"
+      ]
+    },
+    {
+      "id": "9709d28a9997",
+      "title": "Is mental illness universal?",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
+      "published_at": "2026-11-24",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Mental",
+        "Experience"
+      ],
+      "takeaways": [
+        "Do all cultures experience the same mental disorders?",
+        "Or are our experiences of mental distress culturally specific?"
+      ]
+    },
+    {
+      "id": "726cd96d49f0",
+      "title": "Feeling at home in a new country makes you a stranger in the old",
+      "source": "Psyche",
+      "source_slug": "psyche",
+      "url": "https://psyche.co/ideas/feeling-at-home-in-a-new-country-makes-you-a-stranger-in-the-old",
+      "published_at": "2026-11-24",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Self"
+      ],
+      "takeaways": [
+        "A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic"
+      ]
+    },
+    {
+      "id": "2aa5374fb414",
+      "title": "A Game for Teaching Ancient Philosophy",
+      "source": "Daily Nous",
+      "source_slug": "dailynous",
+      "url": "https://dailynous.com/2026/11/24/a-game-for-teaching-ancient-philosophy/",
+      "published_at": "2026-11-24",
+      "read_time_min": 2,
+      "branch": "Eastern Philosophy",
+      "tags": [
+        "Eastern Philosophy",
+        "Buddhist",
+        "Ethics"
+      ],
+      "takeaways": [
+        "The game is set around 150 BCE at the court of Menander, a king who ruled a Hellenistic kingdom that included part of the Indian subcontinent.",
+        "Four delegations of philosophers (Stoics, Epicureans, Buddhists, and Skeptics) arrive at court, each claiming to offer the best way of life.",
+        "There is no predetermined winner: when I ran the game in two sections of my ethics course, different philosophical factions won."
+      ]
+    },
+    {
+      "id": "e41817074bb9",
+      "title": "What the End of Anonymous Writing Means for Academia",
+      "source": "Daily Nous",
+      "source_slug": "dailynous",
+      "url": "https://dailynous.com/2026/11/24/what-the-end-of-anonymous-writing-means-for-academia/",
+      "published_at": "2026-11-24",
+      "read_time_min": 3,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology",
+        "Language",
+        "Knowledge"
+      ],
+      "takeaways": [
+        "Large language models are getting increasingly good at identifying the authors of human-written text.",
+        "The authors asked LLMs to provide the identity of different kinds of often-anonymous writing, such as peer reviews and internet comments.",
+        "Moreover, the set of vulnerable writers expands as models improve… Maintaining anonymity is especially important for peer review."
+      ]
+    },
     {
       "id": "7c2e90567650",
       "title": "Deontic Logic",
@@ -105,93 +199,6 @@
       ],
       "takeaways": [
         "New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology."
-      ]
-    },
-    {
-      "id": "e705a4d42745",
-      "title": "The wind and the song: the treachery of AI",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable",
-      "published_at": "2026-11-23",
-      "read_time_min": 2,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism"
-      ],
-      "takeaways": [
-        "As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it"
-      ]
-    },
-    {
-      "id": "de49a83981d4",
-      "title": "A colossal oscillation",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
-      "published_at": "2026-11-23",
-      "read_time_min": 2,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism"
-      ],
-      "takeaways": [
-        "El Niño has upended global weather, shaping the fate of societies, for millennia."
-      ]
-    },
-    {
-      "id": "dbaf7f1bb045",
-      "title": "Learning to leave",
-      "source": "Psyche",
-      "source_slug": "psyche",
-      "url": "https://psyche.co/turning-points/my-dog-had-separation-anxiety-i-had-ptsd-how-did-we-cope",
-      "published_at": "2026-11-23",
-      "read_time_min": 2,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism",
-        "Anxiety"
-      ],
-      "takeaways": [
-        "My dog’s separation anxiety kept me housebound.",
-        "To help him, I had to face my own fears of leaving"
-      ]
-    },
-    {
-      "id": "90cb0a0cd2ec",
-      "title": "Hume’s Moral Philosophy",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/hume-moral/",
-      "published_at": "2026-11-23",
-      "read_time_min": 6,
-      "branch": "Ethics",
-      "tags": [
-        "Ethics",
-        "Moral",
-        "Reason"
-      ],
-      "takeaways": [
-        "Hume's position in ethics, which is based on his empiricist theory of the mind, is best known for four theses: (1) Reason alone cannot be a motive to the will, but rather is the \"slave of the passions\" (see…",
-        "(3) Moral distinctions are derived from the moral…"
-      ]
-    },
-    {
-      "id": "88ce6fc805ec",
-      "title": "Method and Metaphysics in Plato’s Sophist and Statesman",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/plato-sophstate/",
-      "published_at": "2026-11-23",
-      "read_time_min": 6,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism",
-        "Death"
-      ],
-      "takeaways": [
-        "The Sophist and Statesman are late Platonic dialogues, whose relative dates are established by their stylistic similarity to the Laws, a work that was apparently still \"on the wax\" at the time of Plato's death (Diogenes Laertius 3.37).",
-        "These dialogues are important in exhibiting Plato's views on method and metaphysics after he criticized his own most famous contribution to the history of philosophy, the theory of separate, immaterial forms in the Parmenides."
       ]
     }
   ]

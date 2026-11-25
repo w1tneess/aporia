@@ -5,14 +5,54 @@
   <subtitle>A self-updating philosophical dispatch.</subtitle>
   <link rel="alternate" href="https://github.com/w1tneess/aporia/"/>
   <link rel="self" href="https://github.com/w1tneess/aporia/feed.xml"/>
-  <updated>2026-11-24T07:42:46Z</updated>
+  <updated>2026-11-25T06:13:12Z</updated>
   <author><name>Aporia</name></author>
   <entry>
-    <id>urn:aporia:edition:3</id>
-    <title>Edition 3: Ludwig Wittgenstein</title>
+    <id>urn:aporia:edition:4</id>
+    <title>Edition 4: Ludwig Wittgenstein</title>
     <link href="https://github.com/w1tneess/aporia/"/>
-    <updated>2026-11-24T07:42:46Z</updated>
-    <summary type="text">“We feel that even when all possible scientific questions have been answered, the problems of life remain completely untouched.” — Ludwig Wittgenstein, Tractatus Logico-Philosophicus (6.52 (1921)). Question: Which of your own problems would still be standing after every factual question about them was settled?</summary>
+    <updated>2026-11-25T06:13:12Z</updated>
+    <summary type="text">“Not how the world is, is the mystical, but that it is.” — Ludwig Wittgenstein, Tractatus Logico-Philosophicus (6.44 (1921)). Question: When did you last feel surprise that anything exists at all, rather than surprise at how things happen to be?</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:6b24809546fc</id>
+    <title>Retributive Justice</title>
+    <link href="https://plato.stanford.edu/entries/justice-retributive/"/>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <category term="Ethics"/>
+    <summary type="text">Retributive justice is best understood as the form of justice committed to the following three principles: that those who culpably commit certain kinds of wrongful acts, paradigmatically serious crimes,…</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:9709d28a9997</id>
+    <title>Is mental illness universal?</title>
+    <link href="https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific"/>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific?</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:726cd96d49f0</id>
+    <title>Feeling at home in a new country makes you a stranger in the old</title>
+    <link href="https://psyche.co/ideas/feeling-at-home-in-a-new-country-makes-you-a-stranger-in-the-old"/>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:2aa5374fb414</id>
+    <title>A Game for Teaching Ancient Philosophy</title>
+    <link href="https://dailynous.com/2026/11/24/a-game-for-teaching-ancient-philosophy/"/>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="Eastern Philosophy"/>
+    <summary type="text">The game is set around 150 BCE at the court of Menander, a king who ruled a Hellenistic kingdom that included part of the Indian subcontinent. Four delegations of philosophers (Stoics, Epicureans, Buddhists, and Skeptics) arrive at court, each claiming to offer the best way of life. There is no predetermined winner: when I ran the game in two sections of my ethics course, different philosophical factions won.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:e41817074bb9</id>
+    <title>What the End of Anonymous Writing Means for Academia</title>
+    <link href="https://dailynous.com/2026/11/24/what-the-end-of-anonymous-writing-means-for-academia/"/>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">Large language models are getting increasingly good at identifying the authors of human-written text. The authors asked LLMs to provide the identity of different kinds of often-anonymous writing, such as peer reviews and internet comments. Moreover, the set of vulnerable writers expands as models improve… Maintaining anonymity is especially important for peer review.</summary>
   </entry>
   <entry>
     <id>urn:aporia:entry:7c2e90567650</id>
@@ -53,45 +93,5 @@
     <updated>2026-11-23T00:00:00Z</updated>
     <category term="Epistemology"/>
     <summary type="text">New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:e705a4d42745</id>
-    <title>The wind and the song: the treachery of AI</title>
-    <link href="https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable"/>
-    <updated>2026-11-23T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">As AI learns to look, talk and think ever more like us, this short film asks how we can stay fully human alongside it</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:de49a83981d4</id>
-    <title>A colossal oscillation</title>
-    <link href="https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino"/>
-    <updated>2026-11-23T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">El Niño has upended global weather, shaping the fate of societies, for millennia.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:dbaf7f1bb045</id>
-    <title>Learning to leave</title>
-    <link href="https://psyche.co/turning-points/my-dog-had-separation-anxiety-i-had-ptsd-how-did-we-cope"/>
-    <updated>2026-11-23T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">My dog’s separation anxiety kept me housebound. To help him, I had to face my own fears of leaving</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:90cb0a0cd2ec</id>
-    <title>Hume’s Moral Philosophy</title>
-    <link href="https://plato.stanford.edu/entries/hume-moral/"/>
-    <updated>2026-11-23T00:00:00Z</updated>
-    <category term="Ethics"/>
-    <summary type="text">Hume's position in ethics, which is based on his empiricist theory of the mind, is best known for four theses: (1) Reason alone cannot be a motive to the will, but rather is the &quot;slave of the passions&quot; (see… (3) Moral distinctions are derived from the moral…</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:88ce6fc805ec</id>
-    <title>Method and Metaphysics in Plato’s Sophist and Statesman</title>
-    <link href="https://plato.stanford.edu/entries/plato-sophstate/"/>
-    <updated>2026-11-23T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">The Sophist and Statesman are late Platonic dialogues, whose relative dates are established by their stylistic similarity to the Laws, a work that was apparently still &quot;on the wax&quot; at the time of Plato's death (Diogenes Laertius 3.37). These dialogues are important in exhibiting Plato's views on method and metaphysics after he criticized his own most famous contribution to the history of philosophy, the theory of separate, immaterial forms in the Parmenides.</summary>
   </entry>
 </feed>
