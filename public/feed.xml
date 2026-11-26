@@ -5,14 +5,46 @@
   <subtitle>A self-updating philosophical dispatch.</subtitle>
   <link rel="alternate" href="https://github.com/w1tneess/aporia/"/>
   <link rel="self" href="https://github.com/w1tneess/aporia/feed.xml"/>
-  <updated>2026-11-25T06:13:12Z</updated>
+  <updated>2026-11-26T06:06:00Z</updated>
   <author><name>Aporia</name></author>
   <entry>
-    <id>urn:aporia:edition:4</id>
-    <title>Edition 4: Ludwig Wittgenstein</title>
+    <id>urn:aporia:edition:5</id>
+    <title>Edition 5: Ludwig Wittgenstein</title>
     <link href="https://github.com/w1tneess/aporia/"/>
-    <updated>2026-11-25T06:13:12Z</updated>
-    <summary type="text">“Not how the world is, is the mystical, but that it is.” — Ludwig Wittgenstein, Tractatus Logico-Philosophicus (6.44 (1921)). Question: When did you last feel surprise that anything exists at all, rather than surprise at how things happen to be?</summary>
+    <updated>2026-11-26T06:06:00Z</updated>
+    <summary type="text">“Philosophy is a battle against the bewitchment of our intelligence by means of language.” — Ludwig Wittgenstein, Philosophical Investigations (§109 (1953)). Question: Pick a word you use daily without hesitation—'freedom', 'self', 'success'. Where does it stop meaning anything definite when you press on it?</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:ad78e7a31969</id>
+    <title>Rationalism vs. Empiricism</title>
+    <link href="https://plato.stanford.edu/entries/rationalism-empiricism/"/>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world. Experience includes both sense experience, which comes through our five outward-directed sense modalities, and reflective experience, our conscious awareness of mental activities such as thinking, doubting, remembering, and reasoning.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:4b3ec0c40172</id>
+    <title>The Kokugaku (Native Japan Studies) School</title>
+    <link href="https://plato.stanford.edu/entries/kokugaku-school/"/>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="Eastern Philosophy"/>
+    <summary type="text">In its broadest sense, kokugaku has been used to refer to scholarship that takes Japan as its focus instead of China.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:0951e96f2ae8</id>
+    <title>The passing</title>
+    <link href="https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog"/>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <category term="Ethics"/>
+    <summary type="text">With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:e32bb4f41dd0</id>
+    <title>Alone-together in Karachi</title>
+    <link href="https://psyche.co/turning-points/the-streets-of-karachi-scared-me-less-than-home-did"/>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Here, women pass from father to husband, like property. My friend and I rented our own apartment instead</summary>
   </entry>
   <entry>
     <id>urn:aporia:entry:6b24809546fc</id>
@@ -61,37 +93,5 @@
     <updated>2026-11-24T00:00:00Z</updated>
     <category term="Epistemology"/>
     <summary type="text">Deontic logic is a branch of logic that has been the most concerned with the contribution that the following sorts of notions make to what follows from what (or what supports what, more generally):…</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:a29df23abcac</id>
-    <title>Benedetto Croce</title>
-    <link href="https://plato.stanford.edu/entries/croce/"/>
-    <updated>2026-11-24T00:00:00Z</updated>
-    <category term="Epistemology"/>
-    <summary type="text">Benedetto Croce (1866 - 1952) was the leading Italian philosopher of the first half of the twentieth century. Best known among Anglo-American philosophers for his work on aesthetics and the philosophy of history, his views standardly get linked to those of R. However, Croce's theories of art and history served a more general purpose than Collingwood's (Croce 1946).</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:a8231fc42be2</id>
-    <title>Arthur Schopenhauer</title>
-    <link href="https://plato.stanford.edu/entries/schopenhauer/"/>
-    <updated>2026-11-24T00:00:00Z</updated>
-    <category term="Consciousness"/>
-    <summary type="text">Arthur Schopenhauer was among the first 19th century philosophers to contend that at its core, the universe is not a rational place.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:c68fdf0b93dd</id>
-    <title>Rule-Following and Intentionality</title>
-    <link href="https://plato.stanford.edu/entries/rule-following/"/>
-    <updated>2026-11-23T00:00:00Z</updated>
-    <category term="Language"/>
-    <summary type="text">We'll structure our discussion around Saul Kripke's Wittgenstein on Rules and Private Language (1982), the most widely discussed commentary… Ludwig Wittgenstein's reflections on rule-following - principally, sections 138 - 242 of Philosophical Investigations and section VI of Remarks on the Foundations of Mathematics - raise a series of provoking… The literature on this topic is…</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:9cb3365319a2</id>
-    <title>Gorampa [go rams pa]</title>
-    <link href="https://plato.stanford.edu/entries/gorampa/"/>
-    <updated>2026-11-23T00:00:00Z</updated>
-    <category term="Epistemology"/>
-    <summary type="text">New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology.</summary>
   </entry>
 </feed>

@@ -1,25 +1,96 @@
 {
-  "edition": 4,
-  "updated_at_utc": "2026-11-25T06:13:12Z",
-  "next_update_utc": "2026-11-26T00:00:00Z",
+  "edition": 5,
+  "updated_at_utc": "2026-11-26T06:06:00Z",
+  "next_update_utc": "2026-11-27T00:00:00Z",
   "pipeline_stats": {
     "sources_checked": 5,
-    "fetch_duration_ms": 502,
-    "total_archived": 67,
+    "fetch_duration_ms": 669,
+    "total_archived": 71,
     "corpus_count": 47,
-    "new_entries": 5,
+    "new_entries": 4,
     "sources_failed": 0
   },
   "primary_passage": {
-    "id": "wittgenstein-tlp-6.44",
-    "quote": "Not how the world is, is the mystical, but that it is.",
+    "id": "wittgenstein-pi-109",
+    "quote": "Philosophy is a battle against the bewitchment of our intelligence by means of language.",
     "author": "Ludwig Wittgenstein",
-    "work": "Tractatus Logico-Philosophicus",
-    "reference": "6.44 (1921)",
-    "branch": "Consciousness",
-    "inquiry_prompt": "When did you last feel surprise that anything exists at all, rather than surprise at how things happen to be?"
+    "work": "Philosophical Investigations",
+    "reference": "§109 (1953)",
+    "branch": "Language",
+    "inquiry_prompt": "Pick a word you use daily without hesitation—'freedom', 'self', 'success'. Where does it stop meaning anything definite when you press on it?"
   },
   "entries": [
+    {
+      "id": "ad78e7a31969",
+      "title": "Rationalism vs. Empiricism",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/rationalism-empiricism/",
+      "published_at": "2026-11-26",
+      "read_time_min": 6,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Knowledge",
+        "Experience"
+      ],
+      "takeaways": [
+        "In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world.",
+        "Experience includes both sense experience, which comes through our five outward-directed sense modalities, and reflective experience, our conscious awareness of mental activities such as thinking, doubting, remembering, and reasoning."
+      ]
+    },
+    {
+      "id": "4b3ec0c40172",
+      "title": "The Kokugaku (Native Japan Studies) School",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/kokugaku-school/",
+      "published_at": "2026-11-26",
+      "read_time_min": 6,
+      "branch": "Eastern Philosophy",
+      "tags": [
+        "Eastern Philosophy",
+        "Confucian",
+        "Buddhism"
+      ],
+      "takeaways": [
+        "In its broadest sense, kokugaku has been used to refer to scholarship that takes Japan as its focus instead of China."
+      ]
+    },
+    {
+      "id": "0951e96f2ae8",
+      "title": "The passing",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog",
+      "published_at": "2026-11-25",
+      "read_time_min": 2,
+      "branch": "Ethics",
+      "tags": [
+        "Ethics",
+        "Good"
+      ],
+      "takeaways": [
+        "With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona"
+      ]
+    },
+    {
+      "id": "e32bb4f41dd0",
+      "title": "Alone-together in Karachi",
+      "source": "Psyche",
+      "source_slug": "psyche",
+      "url": "https://psyche.co/turning-points/the-streets-of-karachi-scared-me-less-than-home-did",
+      "published_at": "2026-11-25",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness"
+      ],
+      "takeaways": [
+        "Here, women pass from father to husband, like property.",
+        "My friend and I rented our own apartment instead"
+      ]
+    },
     {
       "id": "6b24809546fc",
       "title": "Retributive Justice",
@@ -128,77 +199,6 @@
       ],
       "takeaways": [
         "Deontic logic is a branch of logic that has been the most concerned with the contribution that the following sorts of notions make to what follows from what (or what supports what, more generally):…"
-      ]
-    },
-    {
-      "id": "a29df23abcac",
-      "title": "Benedetto Croce",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/croce/",
-      "published_at": "2026-11-24",
-      "read_time_min": 6,
-      "branch": "Epistemology",
-      "tags": [
-        "Epistemology"
-      ],
-      "takeaways": [
-        "Benedetto Croce (1866 - 1952) was the leading Italian philosopher of the first half of the twentieth century.",
-        "Best known among Anglo-American philosophers for his work on aesthetics and the philosophy of history, his views standardly get linked to those of R.",
-        "However, Croce's theories of art and history served a more general purpose than Collingwood's (Croce 1946)."
-      ]
-    },
-    {
-      "id": "a8231fc42be2",
-      "title": "Arthur Schopenhauer",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/schopenhauer/",
-      "published_at": "2026-11-24",
-      "read_time_min": 6,
-      "branch": "Consciousness",
-      "tags": [
-        "Consciousness",
-        "Mind",
-        "Reason"
-      ],
-      "takeaways": [
-        "Arthur Schopenhauer was among the first 19th century philosophers to contend that at its core, the universe is not a rational place."
-      ]
-    },
-    {
-      "id": "c68fdf0b93dd",
-      "title": "Rule-Following and Intentionality",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/rule-following/",
-      "published_at": "2026-11-23",
-      "read_time_min": 6,
-      "branch": "Language",
-      "tags": [
-        "Language",
-        "Wittgenstein"
-      ],
-      "takeaways": [
-        "We'll structure our discussion around Saul Kripke's Wittgenstein on Rules and Private Language (1982), the most widely discussed commentary…",
-        "Ludwig Wittgenstein's reflections on rule-following - principally, sections 138 - 242 of Philosophical Investigations and section VI of Remarks on the Foundations of Mathematics - raise a series of provoking…",
-        "The literature on this topic is…"
-      ]
-    },
-    {
-      "id": "9cb3365319a2",
-      "title": "Gorampa [go rams pa]",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/gorampa/",
-      "published_at": "2026-11-23",
-      "read_time_min": 6,
-      "branch": "Epistemology",
-      "tags": [
-        "Epistemology"
-      ],
-      "takeaways": [
-        "New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology."
       ]
     }
   ]
