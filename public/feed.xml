@@ -5,14 +5,70 @@
   <subtitle>A self-updating philosophical dispatch.</subtitle>
   <link rel="alternate" href="https://github.com/w1tneess/aporia/"/>
   <link rel="self" href="https://github.com/w1tneess/aporia/feed.xml"/>
-  <updated>2026-11-26T06:06:00Z</updated>
+  <updated>2026-11-27T05:57:23Z</updated>
   <author><name>Aporia</name></author>
   <entry>
-    <id>urn:aporia:edition:5</id>
-    <title>Edition 5: Ludwig Wittgenstein</title>
+    <id>urn:aporia:edition:6</id>
+    <title>Edition 6: Ludwig Wittgenstein</title>
     <link href="https://github.com/w1tneess/aporia/"/>
-    <updated>2026-11-26T06:06:00Z</updated>
-    <summary type="text">“Philosophy is a battle against the bewitchment of our intelligence by means of language.” — Ludwig Wittgenstein, Philosophical Investigations (§109 (1953)). Question: Pick a word you use daily without hesitation—'freedom', 'self', 'success'. Where does it stop meaning anything definite when you press on it?</summary>
+    <updated>2026-11-27T05:57:23Z</updated>
+    <summary type="text">“The meaning of a word is its use in the language.” — Ludwig Wittgenstein, Philosophical Investigations (§43 (1953)). Question: Think of a word that means something different in your family than in a dictionary. What is the use that fixes its meaning?</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:27c768bd643a</id>
+    <title>The Contents of Perception</title>
+    <link href="https://plato.stanford.edu/entries/perception-contents/"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">In contemporary philosophy, the phrase 'the contents of perception' means, roughly, what is conveyed to the subject by her perceptual experience. There will be a way these things look to you when you see them: they will look to have a certain shape, color, texture, and arrangement relative to one another, among other things. Your visual experience conveys to you that the piano has these features.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:907551e77ce9</id>
+    <title>A Priorism in Moral Epistemology</title>
+    <link href="https://plato.stanford.edu/entries/moral-epistemology-a-priori/"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:8e92ea4f9b72</id>
+    <title>Japanese Confucian Philosophy</title>
+    <link href="https://plato.stanford.edu/entries/japanese-confucian/"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Eastern Philosophy"/>
+    <summary type="text">In Japan, Confucianism stands, along with Buddhism, as a major religio-philosophical teaching introduced from the Eurasian continent at the dawn of Japanese civilization, roughly the mid-sixth century. Although originally a Chinese teaching, it spoke universally, especially when discussing people, or, more broadly, humanity, rarely contextualizing its ideas in exclusionist terms. When discussing human nature, Confucian philosophers, for example, referred to people without exception.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:353be8114ef2</id>
+    <title>Lina Ghotmeh: archaeology of the future</title>
+    <link href="https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal"/>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="Existentialism"/>
+    <summary type="text">In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:775f93726eb9</id>
+    <title>The pretendian wars</title>
+    <link href="https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft"/>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="Existentialism"/>
+    <summary type="text">To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:0850933b148d</id>
+    <title>What exile was like for the first people called ‘refugees’</title>
+    <link href="https://psyche.co/ideas/what-exile-was-like-for-the-first-people-called-refugees"/>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Persecuted in 17th-century France, the Huguenots fled their homeland.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:19b2d8ba8311</id>
+    <title>There and back</title>
+    <link href="https://psyche.co/notes-to-self/im-moving-back-where-i-grew-up-i-know-it-wont-be-the-same"/>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">A lost home lives on in spikes of joy and longing; it shifts in memory as life changes.</summary>
   </entry>
   <entry>
     <id>urn:aporia:entry:ad78e7a31969</id>
@@ -37,61 +93,5 @@
     <updated>2026-11-25T00:00:00Z</updated>
     <category term="Ethics"/>
     <summary type="text">With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:e32bb4f41dd0</id>
-    <title>Alone-together in Karachi</title>
-    <link href="https://psyche.co/turning-points/the-streets-of-karachi-scared-me-less-than-home-did"/>
-    <updated>2026-11-25T00:00:00Z</updated>
-    <category term="Consciousness"/>
-    <summary type="text">Here, women pass from father to husband, like property. My friend and I rented our own apartment instead</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:6b24809546fc</id>
-    <title>Retributive Justice</title>
-    <link href="https://plato.stanford.edu/entries/justice-retributive/"/>
-    <updated>2026-11-25T00:00:00Z</updated>
-    <category term="Ethics"/>
-    <summary type="text">Retributive justice is best understood as the form of justice committed to the following three principles: that those who culpably commit certain kinds of wrongful acts, paradigmatically serious crimes,…</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:9709d28a9997</id>
-    <title>Is mental illness universal?</title>
-    <link href="https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific"/>
-    <updated>2026-11-24T00:00:00Z</updated>
-    <category term="Consciousness"/>
-    <summary type="text">Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific?</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:726cd96d49f0</id>
-    <title>Feeling at home in a new country makes you a stranger in the old</title>
-    <link href="https://psyche.co/ideas/feeling-at-home-in-a-new-country-makes-you-a-stranger-in-the-old"/>
-    <updated>2026-11-24T00:00:00Z</updated>
-    <category term="Consciousness"/>
-    <summary type="text">A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:2aa5374fb414</id>
-    <title>A Game for Teaching Ancient Philosophy</title>
-    <link href="https://dailynous.com/2026/11/24/a-game-for-teaching-ancient-philosophy/"/>
-    <updated>2026-11-24T00:00:00Z</updated>
-    <category term="Eastern Philosophy"/>
-    <summary type="text">The game is set around 150 BCE at the court of Menander, a king who ruled a Hellenistic kingdom that included part of the Indian subcontinent. Four delegations of philosophers (Stoics, Epicureans, Buddhists, and Skeptics) arrive at court, each claiming to offer the best way of life. There is no predetermined winner: when I ran the game in two sections of my ethics course, different philosophical factions won.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:e41817074bb9</id>
-    <title>What the End of Anonymous Writing Means for Academia</title>
-    <link href="https://dailynous.com/2026/11/24/what-the-end-of-anonymous-writing-means-for-academia/"/>
-    <updated>2026-11-24T00:00:00Z</updated>
-    <category term="Epistemology"/>
-    <summary type="text">Large language models are getting increasingly good at identifying the authors of human-written text. The authors asked LLMs to provide the identity of different kinds of often-anonymous writing, such as peer reviews and internet comments. Moreover, the set of vulnerable writers expands as models improve… Maintaining anonymity is especially important for peer review.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:7c2e90567650</id>
-    <title>Deontic Logic</title>
-    <link href="https://plato.stanford.edu/entries/logic-deontic/"/>
-    <updated>2026-11-24T00:00:00Z</updated>
-    <category term="Epistemology"/>
-    <summary type="text">Deontic logic is a branch of logic that has been the most concerned with the contribution that the following sorts of notions make to what follows from what (or what supports what, more generally):…</summary>
   </entry>
 </feed>

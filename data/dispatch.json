@@ -1,25 +1,147 @@
 {
-  "edition": 5,
-  "updated_at_utc": "2026-11-26T06:06:00Z",
-  "next_update_utc": "2026-11-27T00:00:00Z",
+  "edition": 6,
+  "updated_at_utc": "2026-11-27T05:57:23Z",
+  "next_update_utc": "2026-11-28T00:00:00Z",
   "pipeline_stats": {
     "sources_checked": 5,
-    "fetch_duration_ms": 669,
-    "total_archived": 71,
+    "fetch_duration_ms": 1664,
+    "total_archived": 78,
     "corpus_count": 47,
-    "new_entries": 4,
+    "new_entries": 7,
     "sources_failed": 0
   },
   "primary_passage": {
-    "id": "wittgenstein-pi-109",
-    "quote": "Philosophy is a battle against the bewitchment of our intelligence by means of language.",
+    "id": "wittgenstein-pi-43",
+    "quote": "The meaning of a word is its use in the language.",
     "author": "Ludwig Wittgenstein",
     "work": "Philosophical Investigations",
-    "reference": "§109 (1953)",
+    "reference": "§43 (1953)",
     "branch": "Language",
-    "inquiry_prompt": "Pick a word you use daily without hesitation—'freedom', 'self', 'success'. Where does it stop meaning anything definite when you press on it?"
+    "inquiry_prompt": "Think of a word that means something different in your family than in a dictionary. What is the use that fixes its meaning?"
   },
   "entries": [
+    {
+      "id": "27c768bd643a",
+      "title": "The Contents of Perception",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/perception-contents/",
+      "published_at": "2026-11-27",
+      "read_time_min": 6,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Experience",
+        "Perception"
+      ],
+      "takeaways": [
+        "In contemporary philosophy, the phrase 'the contents of perception' means, roughly, what is conveyed to the subject by her perceptual experience.",
+        "There will be a way these things look to you when you see them: they will look to have a certain shape, color, texture, and arrangement relative to one another, among other things.",
+        "Your visual experience conveys to you that the piano has these features."
+      ]
+    },
+    {
+      "id": "907551e77ce9",
+      "title": "A Priorism in Moral Epistemology",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/moral-epistemology-a-priori/",
+      "published_at": "2026-11-27",
+      "read_time_min": 6,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology",
+        "Moral"
+      ],
+      "takeaways": [
+        "New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology."
+      ]
+    },
+    {
+      "id": "8e92ea4f9b72",
+      "title": "Japanese Confucian Philosophy",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/japanese-confucian/",
+      "published_at": "2026-11-27",
+      "read_time_min": 6,
+      "branch": "Eastern Philosophy",
+      "tags": [
+        "Eastern Philosophy",
+        "Confucian",
+        "Buddhism"
+      ],
+      "takeaways": [
+        "In Japan, Confucianism stands, along with Buddhism, as a major religio-philosophical teaching introduced from the Eurasian continent at the dawn of Japanese civilization, roughly the mid-sixth century.",
+        "Although originally a Chinese teaching, it spoke universally, especially when discussing people, or, more broadly, humanity, rarely contextualizing its ideas in exclusionist terms.",
+        "When discussing human nature, Confucian philosophers, for example, referred to people without exception."
+      ]
+    },
+    {
+      "id": "353be8114ef2",
+      "title": "Lina Ghotmeh: archaeology of the future",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal",
+      "published_at": "2026-11-26",
+      "read_time_min": 2,
+      "branch": "Existentialism",
+      "tags": [
+        "Existentialism"
+      ],
+      "takeaways": [
+        "In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future"
+      ]
+    },
+    {
+      "id": "775f93726eb9",
+      "title": "The pretendian wars",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
+      "published_at": "2026-11-26",
+      "read_time_min": 2,
+      "branch": "Existentialism",
+      "tags": [
+        "Existentialism"
+      ],
+      "takeaways": [
+        "To falsely claim Indigenous identity is not a frivolous mistake.",
+        "It’s a grave theft, and the stakes are getting higher"
+      ]
+    },
+    {
+      "id": "0850933b148d",
+      "title": "What exile was like for the first people called ‘refugees’",
+      "source": "Psyche",
+      "source_slug": "psyche",
+      "url": "https://psyche.co/ideas/what-exile-was-like-for-the-first-people-called-refugees",
+      "published_at": "2026-11-26",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness"
+      ],
+      "takeaways": [
+        "Persecuted in 17th-century France, the Huguenots fled their homeland."
+      ]
+    },
+    {
+      "id": "19b2d8ba8311",
+      "title": "There and back",
+      "source": "Psyche",
+      "source_slug": "psyche",
+      "url": "https://psyche.co/notes-to-self/im-moving-back-where-i-grew-up-i-know-it-wont-be-the-same",
+      "published_at": "2026-11-26",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness"
+      ],
+      "takeaways": [
+        "A lost home lives on in spikes of joy and longing; it shifts in memory as life changes."
+      ]
+    },
     {
       "id": "ad78e7a31969",
       "title": "Rationalism vs. Empiricism",
@@ -72,133 +194,6 @@
       ],
       "takeaways": [
         "With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona"
-      ]
-    },
-    {
-      "id": "e32bb4f41dd0",
-      "title": "Alone-together in Karachi",
-      "source": "Psyche",
-      "source_slug": "psyche",
-      "url": "https://psyche.co/turning-points/the-streets-of-karachi-scared-me-less-than-home-did",
-      "published_at": "2026-11-25",
-      "read_time_min": 2,
-      "branch": "Consciousness",
-      "tags": [
-        "Consciousness"
-      ],
-      "takeaways": [
-        "Here, women pass from father to husband, like property.",
-        "My friend and I rented our own apartment instead"
-      ]
-    },
-    {
-      "id": "6b24809546fc",
-      "title": "Retributive Justice",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/justice-retributive/",
-      "published_at": "2026-11-25",
-      "read_time_min": 6,
-      "branch": "Ethics",
-      "tags": [
-        "Ethics",
-        "Justice",
-        "Moral"
-      ],
-      "takeaways": [
-        "Retributive justice is best understood as the form of justice committed to the following three principles: that those who culpably commit certain kinds of wrongful acts, paradigmatically serious crimes,…"
-      ]
-    },
-    {
-      "id": "9709d28a9997",
-      "title": "Is mental illness universal?",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
-      "published_at": "2026-11-24",
-      "read_time_min": 2,
-      "branch": "Consciousness",
-      "tags": [
-        "Consciousness",
-        "Mental",
-        "Experience"
-      ],
-      "takeaways": [
-        "Do all cultures experience the same mental disorders?",
-        "Or are our experiences of mental distress culturally specific?"
-      ]
-    },
-    {
-      "id": "726cd96d49f0",
-      "title": "Feeling at home in a new country makes you a stranger in the old",
-      "source": "Psyche",
-      "source_slug": "psyche",
-      "url": "https://psyche.co/ideas/feeling-at-home-in-a-new-country-makes-you-a-stranger-in-the-old",
-      "published_at": "2026-11-24",
-      "read_time_min": 2,
-      "branch": "Consciousness",
-      "tags": [
-        "Consciousness",
-        "Self"
-      ],
-      "takeaways": [
-        "A five-month stay in Berlin has become nearly nine years, my sense of self and home changed by a peculiar arithmetic"
-      ]
-    },
-    {
-      "id": "2aa5374fb414",
-      "title": "A Game for Teaching Ancient Philosophy",
-      "source": "Daily Nous",
-      "source_slug": "dailynous",
-      "url": "https://dailynous.com/2026/11/24/a-game-for-teaching-ancient-philosophy/",
-      "published_at": "2026-11-24",
-      "read_time_min": 2,
-      "branch": "Eastern Philosophy",
-      "tags": [
-        "Eastern Philosophy",
-        "Buddhist",
-        "Ethics"
-      ],
-      "takeaways": [
-        "The game is set around 150 BCE at the court of Menander, a king who ruled a Hellenistic kingdom that included part of the Indian subcontinent.",
-        "Four delegations of philosophers (Stoics, Epicureans, Buddhists, and Skeptics) arrive at court, each claiming to offer the best way of life.",
-        "There is no predetermined winner: when I ran the game in two sections of my ethics course, different philosophical factions won."
-      ]
-    },
-    {
-      "id": "e41817074bb9",
-      "title": "What the End of Anonymous Writing Means for Academia",
-      "source": "Daily Nous",
-      "source_slug": "dailynous",
-      "url": "https://dailynous.com/2026/11/24/what-the-end-of-anonymous-writing-means-for-academia/",
-      "published_at": "2026-11-24",
-      "read_time_min": 3,
-      "branch": "Epistemology",
-      "tags": [
-        "Epistemology",
-        "Language",
-        "Knowledge"
-      ],
-      "takeaways": [
-        "Large language models are getting increasingly good at identifying the authors of human-written text.",
-        "The authors asked LLMs to provide the identity of different kinds of often-anonymous writing, such as peer reviews and internet comments.",
-        "Moreover, the set of vulnerable writers expands as models improve… Maintaining anonymity is especially important for peer review."
-      ]
-    },
-    {
-      "id": "7c2e90567650",
-      "title": "Deontic Logic",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/logic-deontic/",
-      "published_at": "2026-11-24",
-      "read_time_min": 6,
-      "branch": "Epistemology",
-      "tags": [
-        "Epistemology"
-      ],
-      "takeaways": [
-        "Deontic logic is a branch of logic that has been the most concerned with the contribution that the following sorts of notions make to what follows from what (or what supports what, more generally):…"
       ]
     }
   ]
