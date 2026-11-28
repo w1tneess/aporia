@@ -1,25 +1,166 @@
 {
-  "edition": 6,
-  "updated_at_utc": "2026-11-27T05:57:23Z",
-  "next_update_utc": "2026-11-28T00:00:00Z",
+  "edition": 7,
+  "updated_at_utc": "2026-11-28T05:38:54Z",
+  "next_update_utc": "2026-11-29T00:00:00Z",
   "pipeline_stats": {
     "sources_checked": 5,
-    "fetch_duration_ms": 1664,
-    "total_archived": 78,
+    "fetch_duration_ms": 568,
+    "total_archived": 86,
     "corpus_count": 47,
-    "new_entries": 7,
+    "new_entries": 8,
     "sources_failed": 0
   },
   "primary_passage": {
-    "id": "wittgenstein-pi-43",
-    "quote": "The meaning of a word is its use in the language.",
+    "id": "wittgenstein-pi-ii-xi",
+    "quote": "If a lion could talk, we could not understand him.",
     "author": "Ludwig Wittgenstein",
     "work": "Philosophical Investigations",
-    "reference": "§43 (1953)",
+    "reference": "Part II, xi (1953)",
     "branch": "Language",
-    "inquiry_prompt": "Think of a word that means something different in your family than in a dictionary. What is the use that fixes its meaning?"
+    "inquiry_prompt": "Who in your life shares your words but not your form of life? What would have to be shared before understanding became possible?"
   },
   "entries": [
+    {
+      "id": "dddf5253229a",
+      "title": "Alfred Schutz",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/schutz/",
+      "published_at": "2026-11-28",
+      "read_time_min": 6,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology"
+      ],
+      "takeaways": [
+        "Alfred Schutz (b. 1899, d. 1959), more than any other phenomenologist, attempted to relate the thought of Edmund Husserl to the social world and the social sciences.",
+        "His 1932 Der Sinnhafte Aufbau der sozialen Welt supplied philosophical foundations for Max Weber's sociology and the social sciences."
+      ]
+    },
+    {
+      "id": "0a10f07381dc",
+      "title": "Carl Stumpf",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/stumpf/",
+      "published_at": "2026-11-28",
+      "read_time_min": 6,
+      "branch": "Epistemology",
+      "tags": [
+        "Epistemology"
+      ],
+      "takeaways": [
+        "The name Carl Friedrich Stumpf (1848 - 1936) is historically associated with one of the most important philosophical trends in the early twentieth century, phenomenology."
+      ]
+    },
+    {
+      "id": "45a561205f83",
+      "title": "Folk Psychology as Mental Simulation",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "source_slug": "sep",
+      "url": "https://plato.stanford.edu/entries/folkpsych-simulation/",
+      "published_at": "2026-11-28",
+      "read_time_min": 6,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Mental",
+        "Psychology"
+      ],
+      "takeaways": [
+        "Folk psychology is the capacity to understand and interact with other agents."
+      ]
+    },
+    {
+      "id": "d76b4baea084",
+      "title": "The energy of thought",
+      "source": "Aeon",
+      "source_slug": "aeon",
+      "url": "https://aeon.co/essays/all-our-models-of-how-the-mind-functions-are-missing-something",
+      "published_at": "2026-11-27",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness",
+        "Mind"
+      ],
+      "takeaways": [
+        "We have an astonishing number of models of how the mind works."
+      ]
+    },
+    {
+      "id": "67fc388083da",
+      "title": "Liminal",
+      "source": "Psyche",
+      "source_slug": "psyche",
+      "url": "https://psyche.co/videos/far-from-home-ukrainian-soldiers-relearn-to-inhabit-their-bodies",
+      "published_at": "2026-11-27",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness"
+      ],
+      "takeaways": [
+        "Far from home, injured Ukrainians soldiers learn how to be in their bodies once again, and how to inhabit the world - Directed by Brennan Vance Watch on Psyche"
+      ]
+    },
+    {
+      "id": "2db4c07d1bbf",
+      "title": "Fairuz in the morning and Umm Kulthum at night",
+      "source": "Psyche",
+      "source_slug": "psyche",
+      "url": "https://psyche.co/turning-points/my-grandparents-music-drove-me-mad-now-it-carries-me-home",
+      "published_at": "2026-11-27",
+      "read_time_min": 2,
+      "branch": "Consciousness",
+      "tags": [
+        "Consciousness"
+      ],
+      "takeaways": [
+        "Back home in Palestine, my grandparents’ music drove me mad.",
+        "Now I’m in the US, I’m the one singing along"
+      ]
+    },
+    {
+      "id": "ba9257b7c174",
+      "title": "Kukla to Leibniz University Hannover",
+      "source": "Daily Nous",
+      "source_slug": "dailynous",
+      "url": "https://dailynous.com/2026/11/27/kukla-to-leibniz-university-hannover/",
+      "published_at": "2026-11-27",
+      "read_time_min": 2,
+      "branch": "Language",
+      "tags": [
+        "Language",
+        "Epistemology",
+        "Ethics"
+      ],
+      "takeaways": [
+        "Their recent books include Sex Beyond ‘Yes!’: Pleasure and Agency for Everyone (2025) and City Living: How Urban Spaces and Urban Dwellers Make One Another (2021).",
+        "At LUH, Kukla will be working on their ERC-funded project, TERRAINS: Territory, Agency, and Inhabiting Space , the details of which (including open positions) can be found here .",
+        "In addition to their new position as Chair in Social Philosophy of Science and Language, at LUH Kukla is also a Humboldt Visiting Researcher as well as an affiliate of the SOCRATES Centre for Advanced Studies ."
+      ]
+    },
+    {
+      "id": "3299caae48fb",
+      "title": "The SEP: from Two Files to the “Preëminent Reference Work of Philosophy”",
+      "source": "Daily Nous",
+      "source_slug": "dailynous",
+      "url": "https://dailynous.com/2026/11/27/the-sep-from-two-files-to-the-preeminent-reference-work-of-philosophy/",
+      "published_at": "2026-11-27",
+      "read_time_min": 2,
+      "branch": "Language",
+      "tags": [
+        "Language",
+        "Reference",
+        "Word"
+      ],
+      "takeaways": [
+        "The Stanford Encyclopedia of Philosophy (SEP) gets its own profile in The New Yorker today. .",
+        "The profile ‘s author, Sheon Han , writes about how he “laughed in disbelief” when, years ago as an undergraduate, he learned of the SEP.",
+        "And while we’re on the subject, don’t forget about this browser plug-in for the SEP which improves the user experience in several ways."
+      ]
+    },
     {
       "id": "27c768bd643a",
       "title": "The Contents of Perception",
@@ -55,145 +196,6 @@
       ],
       "takeaways": [
         "New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology."
-      ]
-    },
-    {
-      "id": "8e92ea4f9b72",
-      "title": "Japanese Confucian Philosophy",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/japanese-confucian/",
-      "published_at": "2026-11-27",
-      "read_time_min": 6,
-      "branch": "Eastern Philosophy",
-      "tags": [
-        "Eastern Philosophy",
-        "Confucian",
-        "Buddhism"
-      ],
-      "takeaways": [
-        "In Japan, Confucianism stands, along with Buddhism, as a major religio-philosophical teaching introduced from the Eurasian continent at the dawn of Japanese civilization, roughly the mid-sixth century.",
-        "Although originally a Chinese teaching, it spoke universally, especially when discussing people, or, more broadly, humanity, rarely contextualizing its ideas in exclusionist terms.",
-        "When discussing human nature, Confucian philosophers, for example, referred to people without exception."
-      ]
-    },
-    {
-      "id": "353be8114ef2",
-      "title": "Lina Ghotmeh: archaeology of the future",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal",
-      "published_at": "2026-11-26",
-      "read_time_min": 2,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism"
-      ],
-      "takeaways": [
-        "In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future"
-      ]
-    },
-    {
-      "id": "775f93726eb9",
-      "title": "The pretendian wars",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
-      "published_at": "2026-11-26",
-      "read_time_min": 2,
-      "branch": "Existentialism",
-      "tags": [
-        "Existentialism"
-      ],
-      "takeaways": [
-        "To falsely claim Indigenous identity is not a frivolous mistake.",
-        "It’s a grave theft, and the stakes are getting higher"
-      ]
-    },
-    {
-      "id": "0850933b148d",
-      "title": "What exile was like for the first people called ‘refugees’",
-      "source": "Psyche",
-      "source_slug": "psyche",
-      "url": "https://psyche.co/ideas/what-exile-was-like-for-the-first-people-called-refugees",
-      "published_at": "2026-11-26",
-      "read_time_min": 2,
-      "branch": "Consciousness",
-      "tags": [
-        "Consciousness"
-      ],
-      "takeaways": [
-        "Persecuted in 17th-century France, the Huguenots fled their homeland."
-      ]
-    },
-    {
-      "id": "19b2d8ba8311",
-      "title": "There and back",
-      "source": "Psyche",
-      "source_slug": "psyche",
-      "url": "https://psyche.co/notes-to-self/im-moving-back-where-i-grew-up-i-know-it-wont-be-the-same",
-      "published_at": "2026-11-26",
-      "read_time_min": 2,
-      "branch": "Consciousness",
-      "tags": [
-        "Consciousness"
-      ],
-      "takeaways": [
-        "A lost home lives on in spikes of joy and longing; it shifts in memory as life changes."
-      ]
-    },
-    {
-      "id": "ad78e7a31969",
-      "title": "Rationalism vs. Empiricism",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/rationalism-empiricism/",
-      "published_at": "2026-11-26",
-      "read_time_min": 6,
-      "branch": "Consciousness",
-      "tags": [
-        "Consciousness",
-        "Knowledge",
-        "Experience"
-      ],
-      "takeaways": [
-        "In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world.",
-        "Experience includes both sense experience, which comes through our five outward-directed sense modalities, and reflective experience, our conscious awareness of mental activities such as thinking, doubting, remembering, and reasoning."
-      ]
-    },
-    {
-      "id": "4b3ec0c40172",
-      "title": "The Kokugaku (Native Japan Studies) School",
-      "source": "Stanford Encyclopedia of Philosophy",
-      "source_slug": "sep",
-      "url": "https://plato.stanford.edu/entries/kokugaku-school/",
-      "published_at": "2026-11-26",
-      "read_time_min": 6,
-      "branch": "Eastern Philosophy",
-      "tags": [
-        "Eastern Philosophy",
-        "Confucian",
-        "Buddhism"
-      ],
-      "takeaways": [
-        "In its broadest sense, kokugaku has been used to refer to scholarship that takes Japan as its focus instead of China."
-      ]
-    },
-    {
-      "id": "0951e96f2ae8",
-      "title": "The passing",
-      "source": "Aeon",
-      "source_slug": "aeon",
-      "url": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog",
-      "published_at": "2026-11-25",
-      "read_time_min": 2,
-      "branch": "Ethics",
-      "tags": [
-        "Ethics",
-        "Good"
-      ],
-      "takeaways": [
-        "With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona"
       ]
     }
   ]

@@ -5,14 +5,78 @@
   <subtitle>A self-updating philosophical dispatch.</subtitle>
   <link rel="alternate" href="https://github.com/w1tneess/aporia/"/>
   <link rel="self" href="https://github.com/w1tneess/aporia/feed.xml"/>
-  <updated>2026-11-27T05:57:23Z</updated>
+  <updated>2026-11-28T05:38:54Z</updated>
   <author><name>Aporia</name></author>
   <entry>
-    <id>urn:aporia:edition:6</id>
-    <title>Edition 6: Ludwig Wittgenstein</title>
+    <id>urn:aporia:edition:7</id>
+    <title>Edition 7: Ludwig Wittgenstein</title>
     <link href="https://github.com/w1tneess/aporia/"/>
-    <updated>2026-11-27T05:57:23Z</updated>
-    <summary type="text">“The meaning of a word is its use in the language.” — Ludwig Wittgenstein, Philosophical Investigations (§43 (1953)). Question: Think of a word that means something different in your family than in a dictionary. What is the use that fixes its meaning?</summary>
+    <updated>2026-11-28T05:38:54Z</updated>
+    <summary type="text">“If a lion could talk, we could not understand him.” — Ludwig Wittgenstein, Philosophical Investigations (Part II, xi (1953)). Question: Who in your life shares your words but not your form of life? What would have to be shared before understanding became possible?</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:dddf5253229a</id>
+    <title>Alfred Schutz</title>
+    <link href="https://plato.stanford.edu/entries/schutz/"/>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">Alfred Schutz (b. 1899, d. 1959), more than any other phenomenologist, attempted to relate the thought of Edmund Husserl to the social world and the social sciences. His 1932 Der Sinnhafte Aufbau der sozialen Welt supplied philosophical foundations for Max Weber's sociology and the social sciences.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:0a10f07381dc</id>
+    <title>Carl Stumpf</title>
+    <link href="https://plato.stanford.edu/entries/stumpf/"/>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <category term="Epistemology"/>
+    <summary type="text">The name Carl Friedrich Stumpf (1848 - 1936) is historically associated with one of the most important philosophical trends in the early twentieth century, phenomenology.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:45a561205f83</id>
+    <title>Folk Psychology as Mental Simulation</title>
+    <link href="https://plato.stanford.edu/entries/folkpsych-simulation/"/>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Folk psychology is the capacity to understand and interact with other agents.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:d76b4baea084</id>
+    <title>The energy of thought</title>
+    <link href="https://aeon.co/essays/all-our-models-of-how-the-mind-functions-are-missing-something"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">We have an astonishing number of models of how the mind works.</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:67fc388083da</id>
+    <title>Liminal</title>
+    <link href="https://psyche.co/videos/far-from-home-ukrainian-soldiers-relearn-to-inhabit-their-bodies"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Far from home, injured Ukrainians soldiers learn how to be in their bodies once again, and how to inhabit the world - Directed by Brennan Vance Watch on Psyche</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:2db4c07d1bbf</id>
+    <title>Fairuz in the morning and Umm Kulthum at night</title>
+    <link href="https://psyche.co/turning-points/my-grandparents-music-drove-me-mad-now-it-carries-me-home"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Consciousness"/>
+    <summary type="text">Back home in Palestine, my grandparents’ music drove me mad. Now I’m in the US, I’m the one singing along</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:ba9257b7c174</id>
+    <title>Kukla to Leibniz University Hannover</title>
+    <link href="https://dailynous.com/2026/11/27/kukla-to-leibniz-university-hannover/"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Language"/>
+    <summary type="text">Their recent books include Sex Beyond ‘Yes!’: Pleasure and Agency for Everyone (2025) and City Living: How Urban Spaces and Urban Dwellers Make One Another (2021). At LUH, Kukla will be working on their ERC-funded project, TERRAINS: Territory, Agency, and Inhabiting Space , the details of which (including open positions) can be found here . In addition to their new position as Chair in Social Philosophy of Science and Language, at LUH Kukla is also a Humboldt Visiting Researcher as well as an affiliate of the SOCRATES Centre for Advanced Studies .</summary>
+  </entry>
+  <entry>
+    <id>urn:aporia:entry:3299caae48fb</id>
+    <title>The SEP: from Two Files to the “Preëminent Reference Work of Philosophy”</title>
+    <link href="https://dailynous.com/2026/11/27/the-sep-from-two-files-to-the-preeminent-reference-work-of-philosophy/"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="Language"/>
+    <summary type="text">The Stanford Encyclopedia of Philosophy (SEP) gets its own profile in The New Yorker today. . The profile ‘s author, Sheon Han , writes about how he “laughed in disbelief” when, years ago as an undergraduate, he learned of the SEP. And while we’re on the subject, don’t forget about this browser plug-in for the SEP which improves the user experience in several ways.</summary>
   </entry>
   <entry>
     <id>urn:aporia:entry:27c768bd643a</id>
@@ -29,69 +93,5 @@
     <updated>2026-11-27T00:00:00Z</updated>
     <category term="Epistemology"/>
     <summary type="text">New Stanford Encyclopedia of Philosophy piece; open the source for the full argument on epistemology.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:8e92ea4f9b72</id>
-    <title>Japanese Confucian Philosophy</title>
-    <link href="https://plato.stanford.edu/entries/japanese-confucian/"/>
-    <updated>2026-11-27T00:00:00Z</updated>
-    <category term="Eastern Philosophy"/>
-    <summary type="text">In Japan, Confucianism stands, along with Buddhism, as a major religio-philosophical teaching introduced from the Eurasian continent at the dawn of Japanese civilization, roughly the mid-sixth century. Although originally a Chinese teaching, it spoke universally, especially when discussing people, or, more broadly, humanity, rarely contextualizing its ideas in exclusionist terms. When discussing human nature, Confucian philosophers, for example, referred to people without exception.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:353be8114ef2</id>
-    <title>Lina Ghotmeh: archaeology of the future</title>
-    <link href="https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal"/>
-    <updated>2026-11-26T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:775f93726eb9</id>
-    <title>The pretendian wars</title>
-    <link href="https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft"/>
-    <updated>2026-11-26T00:00:00Z</updated>
-    <category term="Existentialism"/>
-    <summary type="text">To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:0850933b148d</id>
-    <title>What exile was like for the first people called ‘refugees’</title>
-    <link href="https://psyche.co/ideas/what-exile-was-like-for-the-first-people-called-refugees"/>
-    <updated>2026-11-26T00:00:00Z</updated>
-    <category term="Consciousness"/>
-    <summary type="text">Persecuted in 17th-century France, the Huguenots fled their homeland.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:19b2d8ba8311</id>
-    <title>There and back</title>
-    <link href="https://psyche.co/notes-to-self/im-moving-back-where-i-grew-up-i-know-it-wont-be-the-same"/>
-    <updated>2026-11-26T00:00:00Z</updated>
-    <category term="Consciousness"/>
-    <summary type="text">A lost home lives on in spikes of joy and longing; it shifts in memory as life changes.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:ad78e7a31969</id>
-    <title>Rationalism vs. Empiricism</title>
-    <link href="https://plato.stanford.edu/entries/rationalism-empiricism/"/>
-    <updated>2026-11-26T00:00:00Z</updated>
-    <category term="Consciousness"/>
-    <summary type="text">In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world. Experience includes both sense experience, which comes through our five outward-directed sense modalities, and reflective experience, our conscious awareness of mental activities such as thinking, doubting, remembering, and reasoning.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:4b3ec0c40172</id>
-    <title>The Kokugaku (Native Japan Studies) School</title>
-    <link href="https://plato.stanford.edu/entries/kokugaku-school/"/>
-    <updated>2026-11-26T00:00:00Z</updated>
-    <category term="Eastern Philosophy"/>
-    <summary type="text">In its broadest sense, kokugaku has been used to refer to scholarship that takes Japan as its focus instead of China.</summary>
-  </entry>
-  <entry>
-    <id>urn:aporia:entry:0951e96f2ae8</id>
-    <title>The passing</title>
-    <link href="https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog"/>
-    <updated>2026-11-25T00:00:00Z</updated>
-    <category term="Ethics"/>
-    <summary type="text">With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona</summary>
   </entry>
 </feed>

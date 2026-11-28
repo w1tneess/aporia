@@ -1,7 +1,7 @@
 {
   "https://plato.stanford.edu/rss/sep.xml": {
-    "etag": "\"6b08be52-3ae4\"",
-    "last_modified": "Thu, 26 Nov 2026 23:18:42 GMT"
+    "etag": "\"6b0a2d1d-3a44\"",
+    "last_modified": "Sat, 28 Nov 2026 01:23:41 GMT"
   },
   "https://iep.utm.edu/feed/": {
     "etag": "\"c2d19385c873cf138792d6fb63c6e329-gzip\"",
@@ -10,6 +10,6 @@
   "https://aeon.co/feed.rss": {},
   "https://psyche.co/feed": {},
   "https://dailynous.com/feed/": {
-    "etag": "\"dfc115666ad06127c5ef757f1e6cd915-gzip\""
+    "etag": "\"cb817ca1fbd54b187a0d27ac2719b3ce-gzip\""
   }
 }
